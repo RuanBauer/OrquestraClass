@@ -1,0 +1,25 @@
+body {
+  background-color: #121212;
+  color: #fff;
+  font-family: "Segoe UI", sans-serif;
+}
+
+.card {
+  border-radius: 12px;
+}
+
+.btn-warning {
+  font-weight: 600;
+}
+
+.navbar h3 {
+  font-weight: 700;
+  letter-spacing: 0.5px;
+}
+
+.app-container {
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
